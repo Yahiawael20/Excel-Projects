@@ -23,7 +23,7 @@ This project presents an interactive Excel dashboard that analyzes Zara sales da
 - `zara-sales-dashboard.xlsx`
 
 ## 📸 Dashboard Preview
-![Zara Dashboard](zara-dashboard.png)
+![Zara Dashboard](zara%20dashboard.png)
 
 ## 🚀 Skills Applied
 - Data Cleaning  
