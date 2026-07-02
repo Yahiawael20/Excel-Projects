@@ -1,15 +1,15 @@
-# 🛍️ Zara Sales Dashboard (Excel)
+#  Zara Sales Dashboard (Excel)
 
-## 📊 Overview
+##  Overview
 This project presents an interactive Excel dashboard that analyzes Zara sales data to uncover key trends and business insights.
 
-## 📈 Key Insights
+##  Key Insights
 - Jackets are the top-selling sub-category  
 - Male customers generate higher sales than females  
 - Promotions significantly boost overall sales  
 - Seasonal products show strong performance  
 
-## 🛠️ Features
+##  Features
 - KPI Cards (Total Sales, Average Price, Total Products)  
 - Sales analysis by:
   - Category  
@@ -19,13 +19,13 @@ This project presents an interactive Excel dashboard that analyzes Zara sales da
 - Top 5 best-selling products  
 - Interactive slicers for dynamic filtering  
 
-## 📂 File
+##  File
 - `zara-sales-dashboard.xlsx`
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 ![Zara Dashboard](zara%20dashboard.png)
 
-## 🚀 Skills Applied
+##  Skills Applied
 - Data Cleaning  
 - Pivot Tables  
 - Data Visualization  
