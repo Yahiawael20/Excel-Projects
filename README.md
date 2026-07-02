@@ -30,10 +30,10 @@ The goal of these projects is to transform raw data into meaningful insights thr
 ##  Dashboards Preview
 
 ### 🟦 Zara Sales Dashboard
-![Zara Dashboard](zara%20dashboard.png)
+![Zara Dashboard](Zara-Sales-Dashboard/zara-dashboard.png)
 
 ### 🟧 Bikes Sales Dashboard
-![Bikes Dashboard](Bikes%20sales%20dash%20board.png)
+![Bikes Dashboard](Bikes-Sales-Dashboard/bikes-sales-dashboard.png)
 
 ---
 
