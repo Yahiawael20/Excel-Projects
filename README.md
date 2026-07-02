@@ -1,18 +1,18 @@
-# 📊 Data Analysis Projects (Excel & Power BI)
+# 📊 Data Analysis Projects (Excel)
 
-This repository contains a collection of data analysis and business intelligence projects built using **Microsoft Excel** and **Power BI**.  
+This repository contains a collection of data analysis and business intelligence projects built using **Microsoft Excel** .  
 The goal of these projects is to transform raw data into meaningful insights through interactive dashboards and clear visualizations.
 
 ---
 
 ## 📁 Projects Included
 
-### 🟦 Zara Sales Dashboard (Excel)
+### 🟦 Zara Sales Dashboard 
 - An interactive dashboard analyzing Zara sales performance  
 - Insights by category, gender, promotions, and seasonal trends  
 - Key KPIs: Total Sales, Average Price, Total Products  
 
-### 🟧 Bikes Sales Dashboard (Excel)
+### 🟧 Bikes Sales Dashboard 
 - Sales analysis across countries and product categories  
 - Insights into revenue, profit, and customer demographics  
 - Key KPIs: Total Sales, Total Profit, Customer Count  
@@ -20,8 +20,7 @@ The goal of these projects is to transform raw data into meaningful insights thr
 ---
 
 ## 🛠️ Tools & Technologies
-- Microsoft Excel  
-- Power BI  
+- Microsoft Excel   
 - Pivot Tables  
 - Data Visualization  
 - Data Cleaning  
@@ -44,13 +43,4 @@ The goal of these projects is to transform raw data into meaningful insights thr
 - Extract meaningful business insights  
 - Improve data visualization and storytelling skills  
 
----
 
-## 🚀 About Me
-Aspiring Data Analyst skilled in Excel, Power BI, and Python.  
-Passionate about turning data into actionable insights and building impactful dashboards.
-
----
-
-## ⭐ Support
-If you like this repository, feel free to ⭐ star it and follow for more projects!
